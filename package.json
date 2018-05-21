@@ -1,5 +1,5 @@
 {
-  "name": "fabricator-assemble",
+  "name": "trp-fabricator-assemble",
   "version": "1.2.0",
   "description": "The assembly engine behind Fabricator",
   "main": "index.js",
